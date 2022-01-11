@@ -1,0 +1,4 @@
+Contents of file 1.txt
+first text document
+Contents of file 2.txt
+second text document
